@@ -81,7 +81,7 @@ Eventualmente en alguna ejecución cuadrará en el momento justo el intercambio,
 . . .
 Error: you don't own this file
 Error: you don't own this file
-picoCTF{ToctoU_!s_3a5y_a5726c65}
+picoCTF{SECRET}
 Error: you don't own this file
 Error: you don't own this file
 . . .

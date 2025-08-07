@@ -30,6 +30,10 @@
   * [Unsubscriptions Are Free](picoctf/dificil/unsubscriptions-are-free.md)
   * [tic-tac](picoctf/dificil/tic-tac.md)
 
-## WWCTF
+## WWCTF 2025
 
-* [Affirmation Bot](wwctf/affirmation-bot.md)
+* [Affirmation Bot](wwctf-2025/affirmation-bot.md)
+
+## RopEmporium
+
+* [Callme (x86\_64)](ropemporium/callme-x86_64.md)

@@ -37,3 +37,4 @@
 ## RopEmporium
 
 * [Callme (x86\_64)](ropemporium/callme-x86_64.md)
+* [Write4 (x86\_64)](ropemporium/write4-x86_64.md)

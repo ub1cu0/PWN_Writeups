@@ -40,3 +40,4 @@
 * [4. Write4 (x86\_64)](ropemporium/4.-write4-x86_64.md)
 * [5. Badchars (x86\_64)](ropemporium/5.-badchars-x86_64.md)
 * [6. Fluff (x86\_64)](ropemporium/6.-fluff-x86_64.md)
+* [Pivot (x86\_64)](ropemporium/pivot-x86_64.md)

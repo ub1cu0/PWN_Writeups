@@ -42,3 +42,7 @@
 * [6. Fluff (x86\_64)](ropemporium/6.-fluff-x86_64.md)
 * [7. Pivot (x86\_64)](ropemporium/7.-pivot-x86_64.md)
 * [8. Ret2csu (x86\_64)](ropemporium/8.-ret2csu-x86_64.md)
+
+## snakeCTF 2025
+
+* [Saving The Enviroment](snakectf-2025/saving-the-enviroment.md)

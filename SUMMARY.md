@@ -45,4 +45,4 @@
 
 ## snakeCTF 2025
 
-* [Saving The Enviroment](snakectf-2025/saving-the-enviroment.md)
+* [Saving The Environment](snakectf-2025/saving-the-environment.md)

@@ -46,3 +46,7 @@
 ## snakeCTF 2025
 
 * [Saving The Environment](snakectf-2025/saving-the-environment.md)
+
+## ImaginaryCTF 2025
+
+* [Addition](imaginaryctf-2025/addition.md)

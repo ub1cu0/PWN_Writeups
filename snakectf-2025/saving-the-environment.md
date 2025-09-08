@@ -107,7 +107,7 @@ c
 """
 
 def get_bit(offset, bit):
-    #p = process(exe.path)
+    p = process(exe.path)
     #p = gdb.debug(exe.path, gdbscript)
 
     shellcode = asm(f'''

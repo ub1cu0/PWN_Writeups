@@ -29,6 +29,7 @@
   * [Guessing Game 2](picoctf/dificil/guessing-game-2.md)
   * [Unsubscriptions Are Free](picoctf/dificil/unsubscriptions-are-free.md)
   * [tic-tac](picoctf/dificil/tic-tac.md)
+  * [Cache Me Outside](picoctf/dificil/cache-me-outside.md)
 
 ## WWCTF 2025
 

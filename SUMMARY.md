@@ -30,6 +30,7 @@
   * [Unsubscriptions Are Free](picoctf/dificil/unsubscriptions-are-free.md)
   * [tic-tac](picoctf/dificil/tic-tac.md)
   * [Cache Me Outside](picoctf/dificil/cache-me-outside.md)
+  * [Filtered-Shellcode](picoctf/dificil/filtered-shellcode.md)
 
 ## WWCTF 2025
 
